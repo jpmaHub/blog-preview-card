@@ -13,6 +13,10 @@
   margin-top: 20%;
 }
 
+.blog-preview-card:has(.heading:hover) {
+  box-shadow: 1rem 1rem black;
+}
+
 .blog-preview-card-content {
   text-align: "center";
   height: 194px;
@@ -43,9 +47,9 @@
     &:hover {
       color: hsl(47, 88%, 63%);
       cursor: url(../assets/images/cursor-hand-icon.svg), auto; 
-    }
   }
-
+  }
+ 
   .paragraph {
     color: #7f7f7f;
     font-size: 18px;
