@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/jpmaHub/blog-preview-card)
-- Live Site URL: [live site URL](https://jpmahub.github.io/blog-preview-card/)
+- Live Site URL: [Live site URL](https://jpmahub.github.io/blog-preview-card/)
 
 ## My process
 
@@ -39,6 +39,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Github](https://github.com/jpmaHub)
+- Frontend Mentor - [@jpmaHub](https://www.frontendmentor.io/profile/jpmaHub)
 
