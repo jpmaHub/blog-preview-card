@@ -83,3 +83,30 @@
   font-weight: 800;
   margin-bottom: 11px;
 }
+
+
+@media (max-width: 375px) {
+
+  .blog-preview-card {
+    height: 430px;
+    width: 290px;
+  }
+
+  .blog-preview-card-content {
+    text-align: "center";
+    height: 200px;
+    width: 300px; 
+
+    .subtitle {
+      font-size: 12px;
+    }
+  
+    .heading {
+      font-size: 20px;
+    }
+  
+    .paragraph {
+      font-size: 14px;
+    }
+  }
+}
