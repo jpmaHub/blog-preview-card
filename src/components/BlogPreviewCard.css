@@ -6,11 +6,11 @@
   box-shadow: 0.4rem 0.4rem black;
   background-color: hsl(0, 0%, 100%);
   padding: 20px 20px 20px 25px;
-  margin: 0 25px;
   font-family: "Figtree", sans-serif;
   font-style: normal;
   font-optical-sizing: auto;
-  margin-top: 20%;
+  margin-top: 50%;
+  margin-left: 1%;
 }
 
 .blog-preview-card:has(.heading:hover) {
@@ -95,6 +95,8 @@
   .blog-preview-card {
     height: 430px;
     width: 290px;
+    margin-top: 20%;
+    margin-left: 0;
   }
 
   .blog-preview-card-content {
