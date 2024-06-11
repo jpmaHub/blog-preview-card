@@ -1,0 +1,85 @@
+.blog-preview-card {
+  height: 500px;
+  width: 370px;
+  border-radius: 20px;
+  border: 1px solid;
+  box-shadow: 0.4rem 0.4rem black;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px 20px 20px 25px;
+  margin: 0 25px;
+  font-family: "Figtree", sans-serif;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+.blog-preview-card-content {
+  text-align: "center";
+  height: 194px;
+  width: 378px;
+
+  .learning-tag {
+    background-color: hsl(47, 88%, 63%);
+    color: #000;
+    display: inline-block;
+    text-align: center;
+    font-weight: 800;
+    width: 82px;
+    padding: 8px;
+    border-radius: 5px;
+  }
+
+  .subtitle {
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 20px;
+  }
+
+  .heading {
+    font-size: 24px;
+    font-weight: 800;
+    padding-top: 15px;
+
+    &:hover {
+      color: hsl(47, 88%, 63%);
+      cursor: url(../assets/images/cursor-hand-icon.svg), auto; 
+    }
+  }
+
+  .paragraph {
+    color: #7f7f7f;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 0 5px 0;
+  }
+}
+
+.blog-preview-card-media {
+  margin-bottom: 20px;
+
+  img {
+    border-radius: 10px;
+    width: 380px;
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+  }
+}
+
+.grid-container-author {
+  display: grid;
+  grid-template-columns: 50px 100px;
+  align-items: end;
+}
+
+.author-image {
+  height: 32px;
+  width: 32px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+.author-name {
+  font-size: 14px;
+  font-weight: 800;
+  margin-bottom: 11px;
+}
