@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/jpmaHub/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://jpmahub.github.io/blog-preview-card/)
 
 ## My process
 
